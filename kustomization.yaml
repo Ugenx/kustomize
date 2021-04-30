@@ -1,0 +1,3 @@
+resources:
+  - deployment-api.yaml
+  - service-api.yaml
